@@ -1,0 +1,21 @@
+# Basis-Pakete für Data/ML & Bildverarbeitung
+numpy
+pandas
+scikit-learn
+pillow
+opencv-python
+tqdm
+matplotlib
+kaggle
+
+# OCR Engines
+pytesseract
+easyocr
+
+# PyTorch & Deep Learning
+torch
+torchvision
+transformers
+
+# Utilities
+scipy

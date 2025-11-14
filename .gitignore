@@ -1,0 +1,7 @@
+Dataset-AI/
+.venv/
+json_output/
+.deepeval/
+__pycache__/
+test_aral_invoice.json
+.DS_Store
